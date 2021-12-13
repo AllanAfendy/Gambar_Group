@@ -1,3 +1,3 @@
 # Gambar_Group
-# AllanAfendy
-# dani
+# Allan
+# Dani
